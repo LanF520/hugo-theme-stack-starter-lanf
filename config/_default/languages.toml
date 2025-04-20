@@ -34,3 +34,9 @@ languageName = "한국어"
 languagedirection = "ltr"
 title = "Bilibili|LanF"
 weight = 6
+
+[ar]
+languageName = "بالعربية"
+languagedirection = "rtl"
+title = "Bilibili|LanF"
+weight = 7
