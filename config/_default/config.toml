@@ -1,7 +1,7 @@
 # Change baseurl before deploy
 baseurl = "https://blog.lanf.top"
 languageCode = "zh-cn"
-title = "岚LanF的空间"
+title = "岚LanF的个人空间"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
