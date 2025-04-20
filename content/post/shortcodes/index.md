@@ -9,7 +9,7 @@ For more details, check out the [documentation](https://stack.jimmycai.com/writi
 
 ## Bilibili video
 
-{{< bilibili "BV1d4411N7zD" >}}
+{{< bilibili "BV1eTZ5YmEHq" >}}
 
 ## Tencent video
 
