@@ -14,11 +14,11 @@ menu:
 comments: false
 ---
 
-我的bilibili账号
+下方是我的主页链接
 
 来自哔哩哔哩（www.bilibili.com）@岚LanF
 
 ```yaml
-bilinili个人主页：https://space.bilibili.com/3546580896450950?spm_id_from=333.1007.0.0
+https://space.bilibili.com/3546580896450950?spm_id_from=333.1007.0.0
 ```
 ---
