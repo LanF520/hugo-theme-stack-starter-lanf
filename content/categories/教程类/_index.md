@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 教程类
+description: 教程类视频
 image:
 
 # Badge style
