@@ -13,13 +13,12 @@ menu:
 
 comments: false
 ---
-逸一时误一世
-1919810
-893
+
+我的bilibili账号
+
+来自哔哩哔哩（www.bilibili.com）@岚LanF
 
 ```yaml
-逸一时误一世
-1919810
-893
+bilinili个人主页：https://space.bilibili.com/3546580896450950?spm_id_from=333.1007.0.0
 ```
 ---
