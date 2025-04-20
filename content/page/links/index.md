@@ -7,7 +7,7 @@ links:
     image: https://blog.lanf.top/img/avatar_hubc5c36575e3115823400b9d52b2ce10c_397437_300x0_resize_box_3.png
 menu:
     main: 
-        weight: 1
+        weight: 4
         params:
             icon: link
 
