@@ -4,3 +4,9 @@ languageName = "中文"
 languagedirection = "ltr"
 title = "哔哩哔哩|岚LanF"
 weight = 1
+
+[en]
+languageName = "English"
+languagedirection = "ltr"
+title = "Bilibili|LanF"
+weight = 2
