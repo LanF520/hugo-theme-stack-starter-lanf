@@ -1,6 +1,6 @@
 ---
-title: 各种“手腕”
-description: 作品名称均含有手腕二字
+title: “手腕”
+description: 作品“手腕含量超标”
 image:
 
 # Badge style
