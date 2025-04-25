@@ -1,5 +1,5 @@
 ---
-title: 教程类
+title: 教程
 description: 教程类视频
 image:
 
