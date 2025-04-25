@@ -1,7 +1,7 @@
 ---
 title: “手腕”
 description: 作品“手腕含量超标”
-image:
+image: shouwan.jpg
 
 # Badge style
 style:
