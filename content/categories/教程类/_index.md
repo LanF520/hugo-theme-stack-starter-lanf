@@ -1,7 +1,7 @@
 ---
 title: 教程
 description: 教程类视频
-image: jiaocheng.jpg
+image:
 
 # Badge style
 style:
