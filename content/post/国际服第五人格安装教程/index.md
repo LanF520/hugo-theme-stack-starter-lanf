@@ -4,7 +4,7 @@ description: 与其它地区的玩家“友好交流”
 categories:
   - 
 date: 2025-03-02 00:00:00+0000
-image: IMG_2792.jpg
+image: fengmian.jpg
 ---
 
 ## Bilibili video
