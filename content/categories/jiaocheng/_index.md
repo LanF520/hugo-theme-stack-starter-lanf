@@ -1,5 +1,6 @@
 ---
 title: "教程"
+type: categories
 description: 所有教程视频都在这里
 image:
 
