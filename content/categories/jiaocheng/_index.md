@@ -1,6 +1,6 @@
 ---
-title: 教程
-description: 各类教程视频
+title: 空
+description: 空
 image:
 
 # Badge style
