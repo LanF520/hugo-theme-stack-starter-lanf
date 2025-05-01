@@ -1,5 +1,5 @@
 ---
-title: 教程
+title: course
 description: 各类教程视频
 image:
 
