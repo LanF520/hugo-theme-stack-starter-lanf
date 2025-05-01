@@ -5,6 +5,8 @@ tags:
   - 第五人格周年庆
 date: 2025-03-27 00:00:00+0000
 image: fengmian.jpg
+categories: 
+  - "教程"
 ---
 
 ## Bilibili video
