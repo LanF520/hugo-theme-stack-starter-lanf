@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: “手腕”
+description: 手腕含量超标
 image:
 
 # Badge style
