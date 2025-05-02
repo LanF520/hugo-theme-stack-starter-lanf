@@ -1,14 +1,14 @@
 ---
-title: 牢九门的手腕，但↑ ↓ ↑ → ← → ← →
-description: 阿杰：孩子们，我真的加强了吗？
+title: 好消息：15发出紫皮 坏消息：外服出的
+description: 吾（不）爱冈易，吾更爱国服
 categories: 
-  - 手腕
-date: 2025-04-13 00:00:00+0000
+  - 意义不明の展示
+date: 2025-05-02 00:00:00+0000
 image: IMG_2814.JPG
 ---
 
 ## Bilibili video
 
-{{< bilibili "BV1LGdBYyEwq" >}}
+{{< bilibili "BV1PmVuzJEXh" >}}
 
-bilibili视频代号：BV1LGdBYyEwq
+bilibili视频代号：BV1PmVuzJEXh
