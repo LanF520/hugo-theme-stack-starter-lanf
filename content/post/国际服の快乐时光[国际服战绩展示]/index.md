@@ -11,4 +11,4 @@ image: zhanshi.jpg
 
 {{< bilibili "BV19bGqz3ETX" >}}
 
-视频代号：BV19bGqz3ETX
+bilibili视频代号：BV19bGqz3ETX
