@@ -11,4 +11,4 @@ image: IMG_2814.JPG
 
 {{< bilibili "BV1LGdBYyEwq" >}}
 
------
+bilibili视频代号：BV1LGdBYyEwq
