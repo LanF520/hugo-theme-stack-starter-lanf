@@ -1,6 +1,6 @@
 ---
-title: 意义不明の展示
-description: SHOW TIME
+title: AI视频
+description: AI创作作品（均可搬运、自由散布使用）
 image: yiyibumingzhanshi.jpg
 # Badge style
 style:
