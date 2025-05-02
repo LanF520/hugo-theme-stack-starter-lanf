@@ -11,4 +11,4 @@ image: fengmian.jpg
 
 {{< bilibili "BV1eTZ5YmEHq" >}}
 
-视频代号：BV1eTZ5YmEHq
+bilibili视频代号：BV1eTZ5YmEHq
