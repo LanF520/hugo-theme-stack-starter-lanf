@@ -4,7 +4,7 @@ description: 吾（不）爱冈易，吾更爱国服
 categories: 
   - 意义不明の展示
 date: 2025-05-02 00:00:00+0000
-image: IMG_2814.JPG
+image: haoxiaoxihuaixiaoxi.jpg
 ---
 
 ## Bilibili video
