@@ -11,4 +11,4 @@ image: bulao.jpg
 
 {{< bilibili "BV1brGtzGEk3" >}}
 
-视频代号：BV1brGtzGEk3
+bilibili视频代号：BV1brGtzGEk3
