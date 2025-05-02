@@ -1,6 +1,6 @@
 ---
 title: 意义不明の展示
-description: 
+description: SHOW TIME
 image:
 
 # Badge style
