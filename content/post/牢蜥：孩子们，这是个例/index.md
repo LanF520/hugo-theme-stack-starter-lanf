@@ -4,7 +4,7 @@ description: 卢基诺守椅の魅力时刻
 categories: 
   - 手腕
 date: 2025-04-13 00:00:00+0000
-image: IMG_2814.JPG
+image: zheshigeli.jpg
 ---
 
 ## Bilibili video
