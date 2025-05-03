@@ -1,5 +1,5 @@
 ---
-title: 游戏之外的视频
+title: 游戏之外
 description: 分享
 image: youxiyiwai.jpg
 # Badge style
