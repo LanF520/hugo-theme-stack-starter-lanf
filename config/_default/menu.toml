@@ -16,9 +16,9 @@ url = "https://github.com/CaiJimmy/hugo-theme-stack"
 icon = "brand-github"
 
 [[social]]
-identifier = "bilibili"
-name = "bilibili"
-url = "https://bilibili.com"
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com"
 
 [social.params]
-icon = "bilibili"
+icon = "brand-twitter"
