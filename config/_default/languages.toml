@@ -2,48 +2,48 @@
 [zh-cn]
 languageName = "简体中文(默认)"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 1
 
 [zh-tw]
 languageName = "繁體中文"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 2
 
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 3
 
 [ja]
 languageName = "日本語"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 4
 
 [fr]
 languageName = "Français"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 5
 
 [de]
 languageName = "Deutsch"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 6
 
 [ko]
 languageName = "한국어"
 languagedirection = "ltr"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 7
 
 [ar]
 languageName = "بالعربية"
 languagedirection = "rtl"
-title = "SSMT|Power By NicoMico"
+title = "SSMT|WebSite Power By LanFReka"
 weight = 8
 
