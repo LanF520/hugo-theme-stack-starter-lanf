@@ -4,7 +4,7 @@ description: IMPORTANT
 tags:
   - 
 date: 2025-08-31 00:00:00+0000
-image: cover.jpg
+image: travellers.jpg
 ---
 
 如果你打不开Github，可使用以下方法获取SSMT的相关文件：
