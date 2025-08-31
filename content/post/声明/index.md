@@ -1,5 +1,5 @@
 ---
-title: 声明
+title: 重要声明
 description: IMPORTANT
 tags:
   - 
